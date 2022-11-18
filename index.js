@@ -2,7 +2,7 @@ const API_KEY_V3 = "bdba5342660bdd1dac5d09b885091a0c";
 const API_KEY_V4 = "";
 const API_URL = "https://api.themoviedb.org/3/";
 
-const filmsListHtml = document.querySelector(".films-list");
+const filmsListHtml = document.querySelector(".movie-trends__films-list");
 
 let tempImageUrl = "";
 
